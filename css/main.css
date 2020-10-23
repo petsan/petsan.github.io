@@ -322,13 +322,13 @@ body {
   line-height: 1;
   margin: 1rem 0 2rem;
 }
-.page-header .header-email {
+.page-header .header-email .header-phone{
   font-weight: 300;
   font-size: 1.5rem;
   line-height: 2rem;
   text-align: center;
   margin: 0 0 2rem;
-  display: none;
+  /* display: none; */
 }
 .page-header .title-bar {
   border-top: 4px solid #c7c7c7;
